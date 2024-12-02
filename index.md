@@ -2,8 +2,7 @@
 layout: default
 ---
 
-![Representative Image](images/RepFig.png)
-<!-- <img src="images/RepFig.png" width="500" height="200"> -->
+![Representative Image](assets/images/RepFig.png)
 
 Localization using magnetic anomalies is a promising approach for GPS-denied navigation, particularly in challenging environments such as indoor spaces, heavily forested areas, and long-horizon mission scenarios. However, the high cost of precision magnetometers and the complexities of calibration, influenced by distortions from both the platform and the surrounding environment, presents notable challenges. This paper explores a neural network-based sensor model designed to account for environmental factors as well as internal and external magnetic field influences. By addressing these factors, the proposed model provides a practical framework for simulating magnetic interference from both the environment and the vehicle itself. This paper presents a virtual experimental framework that is implemented using Nvidia Omniverse, offering a simulation environment where virtual and physical robots can obtain realistic sensor measurements. This testbed is expected to serve as a tool for investigating magnetic-based navigation algorithms without requiring extensive physical setups. This testbed is released publically for researchers to access and implement novel architectures on.
 
