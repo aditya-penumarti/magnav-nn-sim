@@ -2,27 +2,14 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+![Representative Image](images/RepFig.png)
+<!-- <img src="images/RepFig.png" width="500" height="200"> -->
 
-[Link to another page](./another-page.html).
+Localization using magnetic anomalies is a promising approach for GPS-denied navigation, particularly in challenging environments such as indoor spaces, heavily forested areas, and long-horizon mission scenarios. However, the high cost of precision magnetometers and the complexities of calibration, influenced by distortions from both the platform and the surrounding environment, presents notable challenges. This paper explores a neural network-based sensor model designed to account for environmental factors as well as internal and external magnetic field influences. By addressing these factors, the proposed model provides a practical framework for simulating magnetic interference from both the environment and the vehicle itself. This paper presents a virtual experimental framework that is implemented using Nvidia Omniverse, offering a simulation environment where virtual and physical robots can obtain realistic sensor measurements. This testbed is expected to serve as a tool for investigating magnetic-based navigation algorithms without requiring extensive physical setups. This testbed is released publically for researchers to access and implement novel architectures on.
 
-There should be whitespace between paragraphs.
+### Installation of Isaac Sim MagNav Simulation
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
+```bash
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
@@ -94,7 +81,6 @@ end
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ### Large image
 
