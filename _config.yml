@@ -1,5 +1,7 @@
 title: Neural Network-based Magnetometer Sensor Model for Virtual Magnetic-based Navigation Testbed
-description: This page houses the downloads the the neural-based simulation for the virtual testbed for MagNav. This page is currently under construction.
-show_downloads: false
+description: Aditya Penumarti, Nikhil Iyer, Humberto Ramos, Jane Shin 
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+github:
+  zip_url: https://github.com/aditya-penumarti/magnav-nn-sim-isaac
