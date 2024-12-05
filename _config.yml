@@ -4,4 +4,6 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 github:
-  zip_url: https://github.com/aditya-penumarti/magnav-nn-sim-isaac
+  repo_url: https://github.com/aprilab-uf/nn_magnetometer.git
+  sim_url: https://github.com/aprilab-uf/magnav_isaac_sim.git
+  pdf_url: assets/pdf/NNMagnetometer_AIAA_SciTech_2025.pdf
